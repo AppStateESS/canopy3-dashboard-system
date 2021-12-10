@@ -1,6 +1,6 @@
 {
   "name": "appstateess/canopy3-dashboard-system",
-  "description": "The dashboard for the initial system of Canopy 3",
+  "description": "The dashboard for dashboard and plugin control",
   "homepage": "https://github.com/AppStateESS/canopy3-dashboard-system",
   "type": "canopy3-dashboard",
   "license": "MIT",
