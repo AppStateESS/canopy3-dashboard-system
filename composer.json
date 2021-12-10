@@ -1,0 +1,18 @@
+{
+  "name": "appstateess/canopy3-dashboard-system",
+  "description": "The dashboard for the initial system of Canopy 3",
+  "homepage": "https://github.com/AppStateESS/canopy3-dashboard-system",
+  "type": "canopy3-dashboard",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Matt McNaney",
+      "email": "mcnaneym@appstate.edu"
+    }
+  ],
+  "require": {
+    "php": ">7.4",
+    "composer/installers": "~1.12"
+  }
+}
