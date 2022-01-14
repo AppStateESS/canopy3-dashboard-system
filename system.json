@@ -1,0 +1,19 @@
+{
+  "name": "canopy3-dashboard-system",
+  "description": "Web tools for managing dashboards, plugins, and themes",
+  "directory": "canopy3-dashboard-system",
+  "namespace": "System",
+  "version": "1.0.0",
+  "type": "canopy3-dashboard",
+  "repository": "https://github.com/AppStateESS/canopy3-dashboard-system.git",
+  "releaseAPI": "https://github.com/AppStateESS/canopy3-dashboard-system.git",
+  "homepage": "https://github.com/AppStateESS/canopy3-dashboard-system",
+  "title": "Canopy 3 System Dashboard",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Matt McNaney",
+      "email": "mcnaneym@appstate.edu"
+    }
+  ]
+}
